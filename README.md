@@ -8,5 +8,5 @@
   4. work hard of what we want.
   5. ~~if you belive it , you can acheive it~~ .
   
-  # {source} (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+  # [source](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
   
