@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Growth mindest
+### growth mindset is the believes that the abilities can be developed through practice .
 
-You can use the [editor on GitHub](https://github.com/surahorani/reading_note2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/surahorani/reading_note2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# how we can Develop our mindest? 
+  1. *positive thinking*
+  2. ***self positive talk***
+  3. surrronding ourselves with positive people .
+  4. work hard of what we want.
+  5. ~~if you belive it , you can acheive it~~ .
+  
+  # {source} (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+  
