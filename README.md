@@ -4,6 +4,6 @@
 
 **Read numbe**     |  **Read me**
 -------------------|--------------
-1.Markdown         |https://surahorani.github.io/reading_note2/markdown
-2.github           |https://surahorani.github.io/reading_note2/gitsum
-3.growth           |https://surahorani.github.io/reading_note2/growth
+1.Markdown         | [markdown](https://surahorani.github.io/reading_note2/markdown)
+2.github           |[github](https://surahorani.github.io/reading_note2/gitsum)
+3.growth           |[growthmindest](https://surahorani.github.io/reading_note2/growth)
