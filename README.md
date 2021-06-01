@@ -3,9 +3,9 @@
 
 # topics
 
-**topics** | **links**
----------- |--------------
-|[markdown]|(https://surahorani.github.io/reading_note2/markdown)
-|[growth]  | (https://surahorani.github.io/reading_note2/growth)
-|[github]  | (https://surahorani.github.io/reading_note2/gitsum)
-|[html]    | (https://surahorani.github.io/reading_note2/html)
+**topics**    | **links**
+----------    |------------
+(markdown)    |[markdown](surahorani.github.io/reading_note2/markdown)
+(growth)       |[growth] (https://surahorani.github.io/reading_note2/)
+(github)      |[github](https://surahorani.github.io/reading_note2/gitsum)
+(html)[html]  |[html](https://surahorani.github.io/reading_note2/html)  
