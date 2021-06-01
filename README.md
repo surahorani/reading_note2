@@ -4,6 +4,6 @@
 
 **topics**     |  **links**
 ---------------|--------------
-|Markdown     | [markdown](https://surahorani.github.io/reading_note2/markdown)
+|Markdown      | [markdown](https://surahorani.github.io/reading_note2/markdown)
 |github       |[github](https://surahorani.github.io/reading_note2/gitsum)
 |growth       |[growthmindest](https://surahorani.github.io/reading_note2/growth)
